@@ -1,5 +1,5 @@
 
-#RCControl.py#
+#RC-SITL#
 
 
 Program that allows the use of an RC Transmitter with ArduPilot SITL
